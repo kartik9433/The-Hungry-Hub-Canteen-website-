@@ -1,3 +1,7 @@
+![Home](https://github.com/kartik9433/The-Hungry-Hub-Canteen-website-/blob/cee3949a0a21b812fc4e0640688d59317de5b071/Screenshot%202025-10-02%20164003.png)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
