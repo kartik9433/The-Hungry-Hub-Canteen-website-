@@ -1,3 +1,7 @@
+# The Hungry Hub - Canteen Website
+
+A modern, responsive web application for a canteen, allowing users to browse breakfast, lunch, and dinner menus, view items, and get help easily.
+
 ![Home](https://github.com/kartik9433/The-Hungry-Hub-Canteen-website-/blob/cee3949a0a21b812fc4e0640688d59317de5b071/Screenshot%202025-10-02%20164003.png)
 
 ![Menu](https://github.com/kartik9433/The-Hungry-Hub-Canteen-website-/blob/1998508c6c834e37f04f08db326ad15048b405ae/Screenshot%202025-10-02%20164135.png)
