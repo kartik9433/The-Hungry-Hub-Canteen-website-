@@ -1,0 +1,68 @@
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 6rem;
+    border:solid 0px black ;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.Navbar .logo_img img{
+    display: inline;
+    height: 50px;
+}
+.Navbar ul{
+    display: flex;
+    gap: 6.25rem;
+    padding-left: 37.5rem;
+    list-style: none;
+}
+.Navbar li{
+    font-size: large;
+    color: black;
+}
+.Navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.Navbar ul li a:hover{
+      color: black;
+}
+.changNav{
+        display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 6rem;
+    border:solid 0px black ;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: transparent;
+}
+.changNav .logo_img img{
+    display: inline;
+    height: 50px;
+}
+.changNav ul{
+    display: flex;
+    gap: 6.25rem;
+    padding-left: 37.5rem;
+    list-style: none;
+}
+.changNav li{
+    font-size: large;
+    color: black;
+}
+.changNav ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.changNav ul li a:hover{
+      color: black;
+}
+.changNav .logo_img img{
+  color: aliceblue;
+}
