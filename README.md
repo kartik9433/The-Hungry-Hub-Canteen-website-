@@ -6,6 +6,21 @@ A modern, responsive web application for a canteen, allowing users to browse bre
 
 ![Menu](https://github.com/kartik9433/The-Hungry-Hub-Canteen-website-/blob/1998508c6c834e37f04f08db326ad15048b405ae/Screenshot%202025-10-02%20164135.png)
 
+## Tech Stack
+
+- React.js
+- Vite
+- HTML, CSS, JavaScript
+- Git & GitHub for version control
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/kartik9433/The-Hungry-Hub-Canteen-website-.git
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
